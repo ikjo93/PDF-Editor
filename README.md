@@ -58,6 +58,7 @@
 > >
 > > ### ④ PDF 분할 및 병합
 > > 여러 페이지의 PDF를 분할할 수 있고 여러 개의 PDF 파일을 병합하여 새로운 PDF 파일을 생성할 수 있습니다.
+> > 
 > > ![image](https://user-images.githubusercontent.com/82401504/145346415-332fc569-7c3e-49e5-ad99-111a18c6e52d.png)
 > > > #### Features
 > > > + PyPDF2 라이브러리의 PdfFileWriter 및 PdfFileReader 객체를 통한 pdf 파일 분할
