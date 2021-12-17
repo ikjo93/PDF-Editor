@@ -42,7 +42,8 @@
 > > >   + 저장경로 입력란 및 가로 스크롤바
 > > > + 실행 프레임
 > > >   + PDF 파일 분할 및 병합 실행 버튼
-> > > ![image](https://user-images.githubusercontent.com/82401504/146517780-7f3ecab6-630e-4744-9585-9bcb1d3f6efb.png)
+> > >   
+> > > ![캡처](https://user-images.githubusercontent.com/82401504/146517919-2ca6d9b6-cc0d-46a9-8e0a-64386694e545.PNG)
 > >   
 > > ### ② PDF 병합 순서 변경 및 선택 삭제
 > > > 여러 개의 PDF 파일을 병합 시 '↑ ', '↓' 버튼을 클릭하여 병합되는 순서를 변경할 수 있습니다
